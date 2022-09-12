@@ -31,17 +31,9 @@ ___
   import ImageEncDec
   ```
 - Now You able to use this Project.
-______
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 8f54c370102c29198ba6160f0ecea91f5a3f6b80
 ## Snapshots
 ![Screenshot 2021-07-24 11:40:20](https://user-images.githubusercontent.com/50815912/126859412-cfc1260c-fb06-42a5-b9a4-c75880da54cc.png)
 ![Screenshot 2021-07-24 11:40:57](https://user-images.githubusercontent.com/50815912/126859420-ba395cca-e987-436e-8eaf-38f8dc1880b5.png)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 8f54c370102c29198ba6160f0ecea91f5a3f6b80
