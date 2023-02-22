@@ -9,7 +9,7 @@ window = tk.Tk()
 window.title("Encryption & Decryption")
 window.geometry("450x350")
 message= """Image Encryption Decryption project is built using Tkinter.
-Devloped by CodderscluB
+Devloped by Mr.Tejas Dixit and Datta kale 
 Blog:- https://medium.com/coddersclub
 Contact us:- coddersclub@gmil.com
 Feedback or Feature request :- github.com/coddersclub, github.com/pandatd

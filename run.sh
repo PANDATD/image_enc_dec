@@ -1,14 +1,13 @@
-#!/usr/bin/env bash
+clear
 
-echo "Checking Updates"
-sudo apt-get update -y
-echo "checking upgrades"
-sudo apt-get upgrade -y
-echo"removing unwated packages"
-sudo apt autoremove -y
-echo "Installing pip"
-sudo apt-get install python3-pip -y
-echo "Installing TKINTER"
-sudo apt-get install python3-tk
-echo "Installing required packages"
-pip3 install -r requirement.txt
+echo "[+] Installing dependancies "
+echo "[+] Refreshing database"
+sudo pacman -Syy 
+
+sudo pacman -S python-pmw 
+echo "[+] Installing Tkinter "
+pip3 install -r requirements.txt
+
+echo "Running Application"
+cd ImagEncDec
+python3 enc_dec.py  
