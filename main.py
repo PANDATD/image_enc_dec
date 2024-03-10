@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.12
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import hashlib
